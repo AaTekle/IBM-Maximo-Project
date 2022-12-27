@@ -5,6 +5,7 @@ This is just a model for a typical product landing page for a Microphone Store.
 
 This is not a real brand!
 
+Microphone Select buttons are clickable, with the ability to check them out on marketplaces like Amazon.
 
 //A few bugs are still up, 
 
